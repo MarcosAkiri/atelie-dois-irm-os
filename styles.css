@@ -1,7 +1,12 @@
-body{background: #BB8999}
-h1{fonte-size:23px}
-h2{fonte-size:23px}
+body{background: #BB8999
+}
+h1{fonte-size:23px
+}
+h2{fonte-size:23px
+}
 p{text-align:center;
-    fonte-size:23px}
-  #produtos{width:100%;
-           height:40px}
+    fonte-size:25px;
+}
+  #produtos{width:50%;
+           height:50%;
+}
