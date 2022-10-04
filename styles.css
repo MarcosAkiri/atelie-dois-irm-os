@@ -11,5 +11,5 @@ p{text-align:center;
     fonte-size:25px;
 }
   #produtos{width:30%;
-           display:block
+           display:inline-block
 }
