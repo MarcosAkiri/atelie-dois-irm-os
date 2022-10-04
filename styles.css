@@ -10,7 +10,6 @@ h2{fonte-size:23px
 p{text-align:center;
     fonte-size:25px;
 }
-  #produtos{width:50%;
-           height:30%;
-           margin: 3em 0:
+  #produtos{width:30%;
+           display:block
 }
